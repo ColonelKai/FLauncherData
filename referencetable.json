@@ -2,6 +2,7 @@
 "modlist":["kadeengine"],
 "kadeengine":{
 	"modName":"Kade Engine",
+	"modDev":"KadeDev",
 	"modVersion":152,
 	"modDescription":"Kade Engine is a mod for Friday Night Funkin', including a full engine rework, replays, and more.",
 	"bytesToDownload":140000000,
