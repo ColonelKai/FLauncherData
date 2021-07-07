@@ -1,14 +1,14 @@
 {
-"modlist":["kadeengine"],
-"kadeengine":{
-	"modName":"Kade Engine",
-	"modDev":"KadeDev",
-	"execPath":"Kade Engine.exe",
+"modlist":["andromeda"],
+"andromeda":{
+	"modName":"Andromeda Engine",
+	"modDev":"Nebula the Zorua",
+	"execPath":"Funkin.exe",
 	"modVersion":152,
-	"modDescription":"Kade Engine is a mod for Friday Night Funkin', including a full engine rework, replays, and more.",
-	"bytesToDownload":140000000,
-	"downloadURL":"https://github.com/KadeDev/Kade-Engine/releases/latest/download/KadeEngine-1.5.4.7z",
-	"iconURL":"https://raw.githubusercontent.com/KadeDev/Kade-Engine/stable/assets/preload/images/KadeEngineLogo.png",
-	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113993573-e31dfc00-9854-11eb-82ae-1f29dc8a0b04.png"
+	"modDescription":"Made as an alternative to other engines because im a lil' bitch and thought I could take a shot, so I did.",
+	"bytesToDownload":263617518,
+	"downloadURL":"https://github.com/nebulazorua/andromeda-engine/releases/download/B6/new.input.zip",
+	"iconURL":"https://i.imgur.com/O4hjuFC.png",
+	"bgPictureURL":"https://i.redd.it/bhcrmqtg4kw41.jpg"
 	}
 }
