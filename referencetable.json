@@ -1,5 +1,5 @@
 {
-"modlist":["andromeda"],
+"modlist":["andromeda", "ruriademo"],
 "andromeda":{
 	"modName":"Andromeda Engine",
 	"modDev":"Nebula the Zorua",
@@ -10,5 +10,17 @@
 	"downloadURL":"https://github.com/nebulazorua/andromeda-engine/releases/download/B6/new.input.zip",
 	"iconURL":"https://i.imgur.com/O4hjuFC.png",
 	"bgPictureURL":"https://i.redd.it/bhcrmqtg4kw41.jpg"
+	},
+	
+"ruriademo":{
+	"modName":"Vs Ruria: Racked & Ruined DEMO",
+	"modDev":"Team Darcayic",
+	"execPath":"Vs Ruria.exe",
+	"modVersion":013,
+	"modDescription":"You took your girlfriend for a vacation to Russia! But daddy dearest doesn't like that idea one bit, as the 'protective' father he is, he hired a well known killer at Russia and soon boyfriend will meet a troublesome foe, She's quite persistent in terms of doing her job do you think you got what it takes?",
+	"bytesToDownload":98988829,
+	"downloadURL":"https://www.dropbox.com/s/skspwft5v533db3/Racked%20%26%20Ruined%20Demo.zip?dl=1",
+	"iconURL":"https://i.imgur.com/sii3kMS.png",
+	"bgPictureURL":"https://i.imgur.com/VjbmOYQ.png"
 	}
 }
