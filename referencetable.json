@@ -16,7 +16,7 @@
 "fpsplus":{
 	"modName":"FPS Plus",
 	"modDev":"ThatRozebudDude",
-	"execPath":"FPS Plus/FunkinFPSPlus.exe",
+	"execPath":"FPS_Plus/FunkinFPSPlus.exe",
 	"modVersion":371,
 	"modDescription":"Friday Night Funkin FPS Plus is a mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.",
 	"bytesToDownload":170756499,
