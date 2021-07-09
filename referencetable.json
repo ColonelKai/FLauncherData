@@ -1,5 +1,5 @@
 {
-"modlist":["andromeda", "fpsplus", "examplemod3", "examplemod4", "examplemod5", "examplemod6", "examplemod7"],
+"modlist":["andromeda", "fpsplus"],
 "andromeda":{
 	"modName":"Andromeda Engine",
 	"modDev":"Nebula the Zorua",
@@ -25,66 +25,15 @@
 	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png"
 	},
 	
-	
-"examplemod3":{
-	"modName":"Example Mod 3",
-	"modDev":"ColonelKai",
-	"execPath":"bruh",
-	"modVersion":371,
-	"modDescription":"Bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh ",
+"bobsonslaught":{
+	"modName":"Bob's Onslaught",
+	"modDev":"The Bob Mod Team",
+	"execPath":"FPS Plus/FunkinFPSPlus.exe",
+	"modVersion":1,
+	"modDescription":"The sequel to the 'Literally FNF Mod Ever' mod. Bob.",
 	"bytesToDownload":170756499,
-	"downloadURL":"https://twitter.com/colonel_kai",
-	"iconURL":"https://raw.githubusercontent.com/ThatRozebudDude/FPS-Plus-Public/release/art/readme/logo.png",
-	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png"
-	},
-	
-"examplemod4":{
-	"modName":"Example Mod 4",
-	"modDev":"ColonelKai",
-	"execPath":"bruh",
-	"modVersion":371,
-	"modDescription":"Bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh ",
-	"bytesToDownload":170756499,
-	"downloadURL":"https://twitter.com/colonel_kai",
-	"iconURL":"https://raw.githubusercontent.com/ThatRozebudDude/FPS-Plus-Public/release/art/readme/logo.png",
-	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png"
-	},
-	
-"examplemod5":{
-	"modName":"Example Mod 5",
-	"modDev":"ColonelKai",
-	"execPath":"bruh",
-	"modVersion":371,
-	"modDescription":"Bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh ",
-	"bytesToDownload":170756499,
-	"downloadURL":"https://twitter.com/colonel_kai",
-	"iconURL":"https://raw.githubusercontent.com/ThatRozebudDude/FPS-Plus-Public/release/art/readme/logo.png",
-	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png"
-	},
-	
-	
-"examplemod6":{
-	"modName":"Example Mod 6",
-	"modDev":"ColonelKai",
-	"execPath":"bruh",
-	"modVersion":371,
-	"modDescription":"Bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh ",
-	"bytesToDownload":170756499,
-	"downloadURL":"https://twitter.com/colonel_kai",
-	"iconURL":"https://raw.githubusercontent.com/ThatRozebudDude/FPS-Plus-Public/release/art/readme/logo.png",
-	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png"
-	},
-	
-	
-	"examplemod7":{
-	"modName":"Example Mod 7",
-	"modDev":"ColonelKai",
-	"execPath":"bruh",
-	"modVersion":371,
-	"modDescription":"Bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh bruh ",
-	"bytesToDownload":170756499,
-	"downloadURL":"https://twitter.com/colonel_kai",
-	"iconURL":"https://raw.githubusercontent.com/ThatRozebudDude/FPS-Plus-Public/release/art/readme/logo.png",
-	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png"
-	},
+	"downloadURL":"https://i.imgur.com/dothislater.png",
+	"iconURL":"https://i.imgur.com/eBN1YML.png",
+	"bgPictureURL":"https://i.imgur.com/xurFNeX.png"
+	}
 }
