@@ -1,5 +1,5 @@
 {
-"modlist":["andromeda", "fpsplus"],
+"modlist":["andromeda"],
 "andromeda":{
 	"modName":"Andromeda Engine",
 	"modDev":"Nebula the Zorua",
@@ -10,30 +10,5 @@
 	"downloadURL":"https://github.com/nebulazorua/andromeda-engine/releases/download/B6/new.input.zip",
 	"iconURL":"https://i.imgur.com/O4hjuFC.png",
 	"bgPictureURL":"https://i.redd.it/bhcrmqtg4kw41.jpg"
-	},
-
-	
-"fpsplus":{
-	"modName":"FPS Plus",
-	"modDev":"ThatRozebudDude",
-	"execPath":"FPS Plus/FunkinFPSPlus.exe",
-	"modVersion":371,
-	"modDescription":"Friday Night Funkin FPS Plus is a mod of Friday Night Funkin' that aims to improve gameplay and add quality of life features.",
-	"bytesToDownload":170756499,
-	"downloadURL":"https://github.com/ThatRozebudDude/FPS-Plus-Public/releases/download/v3.7.1/fpsplus_v3_7_1.zip",
-	"iconURL":"https://raw.githubusercontent.com/ThatRozebudDude/FPS-Plus-Public/release/art/readme/logo.png",
-	"bgPictureURL":"https://user-images.githubusercontent.com/15311104/113991654-f4660900-9852-11eb-8c3d-f3927571f19b.png"
-	},
-	
-"bobsonslaught":{
-	"modName":"Bob's Onslaught",
-	"modDev":"The Bob Mod Team",
-	"execPath":"FPS Plus/FunkinFPSPlus.exe",
-	"modVersion":1,
-	"modDescription":"The sequel to the 'Literally FNF Mod Ever' mod. Bob.",
-	"bytesToDownload":170756499,
-	"downloadURL":"https://i.imgur.com/dothislater.png",
-	"iconURL":"https://i.imgur.com/eBN1YML.png",
-	"bgPictureURL":"https://i.imgur.com/xurFNeX.png"
 	}
 }
