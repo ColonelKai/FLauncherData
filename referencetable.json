@@ -1,5 +1,5 @@
 {
-"modlist":["andromeda", "ruriademo", "fpsplus", "bytefunkin"],
+"modlist":["andromeda", "ruriademo", "fpsplus", "bytefunkin", "bobsonslaught"],
 "andromeda":{
 	"modName":"Andromeda Engine",
 	"modDev":"Nebula the Zorua",
@@ -46,5 +46,17 @@
 	"downloadURL":"https://www.dropbox.com/s/55tv1mwoszg45uw/ByteFunkinFinalReleaseHopefully.zip?dl=1",
 	"iconURL":"https://i.imgur.com/1yGP1wr.png",
 	"bgPictureURL":"https://i.imgur.com/FfpOtz2.jpeg"
+	},
+	
+"bobsonslaught":{
+	"modName":"Bob's Onslaught",
+	"modDev":"The Bob Mod Team",
+	"execPath":"bin/BOB.exe",
+	"modVersion":100,
+	"modDescription":"The sequel to the 'Literally FNF Mod Ever' mod. Bob. ",
+	"bytesToDownload":229498181,
+	"downloadURL":"https://www.dropbox.com/s/r2x2065hnc434ga/bobsonslaught_faf57.zip?dl=1",
+	"iconURL":"https://i.imgur.com/eBN1YML.png",
+	"bgPictureURL":"https://i.imgur.com/xurFNeX.png"
 	}
 }
