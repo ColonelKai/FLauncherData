@@ -1,5 +1,5 @@
 {
-"modlist":["andromeda", "ruriademo", "fpsplus"],
+"modlist":["andromeda", "ruriademo", "fpsplus", "bytefunkin"],
 "andromeda":{
 	"modName":"Andromeda Engine",
 	"modDev":"Nebula the Zorua",
@@ -34,5 +34,17 @@
 	"downloadURL":"https://www.dropbox.com/s/skspwft5v533db3/Racked%20%26%20Ruined%20Demo.zip?dl=1",
 	"iconURL":"https://i.imgur.com/sii3kMS.png",
 	"bgPictureURL":"https://i.imgur.com/VjbmOYQ.png"
+	}
+
+"bytefunkin":{
+	"modName":"Byte Funkin'",
+	"modDev":"AdrianCD, Omega, Radalkcor",
+	"execPath":"Byte Funkin'.exe",
+	"modVersion":011,
+	"modDescription":"Boyfriend and Girlfriend have landed inside a mysterious arcade machine, home to three new foes. Six songs, video cutscenes, and more await. Are you ready to challenge the Bytes?",
+	"bytesToDownload":132898816,
+	"downloadURL":"https://www.dropbox.com/s/55tv1mwoszg45uw/ByteFunkinFinalReleaseHopefully.zip?dl=1",
+	"iconURL":"https://imgur.com/1yGP1wr",
+	"bgPictureURL":"https://imgur.com/FfpOtz2"
 	}
 }
