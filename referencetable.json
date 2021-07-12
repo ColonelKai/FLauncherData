@@ -64,10 +64,10 @@
 	"modName":"Vs. Camellia",
 	"modDev":"The Camellia Team",
 	"execPath":"vs. Camellia.exe",
-	"modVersion":102,
+	"modVersion":110,
 	"modDescription":"Are you ready for Camellia?",
 	"bytesToDownload":111010297,
-	"downloadURL":"https://github.com/ItzFireable/VsCamellia/releases/download/1.0.2/camellia-1.0.2.zip",
+	"downloadURL":"https://github.com/ItzFireable/VsCamellia/releases/download/1.1/Windows.1.1.zip",
 	"iconURL":"https://i.imgur.com/lVG3Jd9.png",
 	"bgPictureURL":"https://i.imgur.com/Mtt3aDA.jpg"
 	}
