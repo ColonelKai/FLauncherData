@@ -1,5 +1,5 @@
 {
-"modlist":["andromeda", "ruriademo", "fpsplus", "bytefunkin", "bobsonslaught"],
+"modlist":["andromeda", "ruriademo", "fpsplus", "bytefunkin", "bobsonslaught", "camellia"],
 "andromeda":{
 	"modName":"Andromeda Engine",
 	"modDev":"Nebula the Zorua",
@@ -58,5 +58,17 @@
 	"downloadURL":"https://www.dropbox.com/s/r2x2065hnc434ga/bobsonslaught_faf57.zip?dl=1",
 	"iconURL":"https://i.imgur.com/eBN1YML.png",
 	"bgPictureURL":"https://i.imgur.com/xurFNeX.png"
+	},
+	
+"camellia":{
+	"modName":"Vs. Camellia",
+	"modDev":"The Camellia Team",
+	"execPath":"vs. Camellia.exe",
+	"modVersion":102,
+	"modDescription":"Are you ready for Camellia?",
+	"bytesToDownload":111010297,
+	"downloadURL":"https://github.com/ItzFireable/VsCamellia/releases/download/1.0.2/camellia-1.0.2.zip",
+	"iconURL":"https://i.imgur.com/lVG3Jd9.png",
+	"bgPictureURL":"https://i.imgur.com/Mtt3aDA.jpg"
 	}
 }
